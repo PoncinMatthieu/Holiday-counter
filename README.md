@@ -4,20 +4,20 @@ This small python program counts holidays I have left
 To use it, create a json file named "./holidays.json" with the following structure:
 
     {
-	"starting_date": "01/04/2015",
-	    "starting_days": 10,
-	        "days_per_month": 2.5,
-		    "holiday_reduction": 1,
-		        "holiday_reduction_every": 5,
-			    "holidays": [
+        "starting_date": "01/04/2015",
+        "starting_days": 10,
+        "days_per_month": 2.5,
+        "holiday_reduction": 1,
+        "holiday_reduction_every": 5,
+        "holidays": [
                      	    {
-                            "name": "My first holidays 2015",
-			    	    	                  "days": 3,
-									            },
-                        {
-				"name": "My second holidays 2015",
-					    	               "days": 2,
-									            }
+                                "name": "My first holidays 2015",
+			    	"days": 3,
+                            },
+                            {
+                                "name": "My second holidays 2015",
+                                "days": 2,
+                            }
                     ]
     }
 
