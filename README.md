@@ -12,7 +12,7 @@ To use it, create a json file named "./holidays.json" with the following structu
         "holidays": [
                      	    {
                                 "name": "My first holidays 2015",
-			    	"days": 3,
+                                "days": 3,
                             },
                             {
                                 "name": "My second holidays 2015",
