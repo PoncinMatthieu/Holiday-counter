@@ -1,5 +1,5 @@
 # Holiday-counter
-This small python program counts holidays I have left
+This small python script helps counting holiday days
 
 To use it, create a json file named "./holidays.json" with the following structure:
 
